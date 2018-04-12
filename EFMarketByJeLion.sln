@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMarketByJeLion", "EFMarketByJeLion\EFMarketByJeLion.csproj", "{31524701-690A-4CA9-8DC8-7D81566CC40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFResult", "EFResult\EFResult.csproj", "{06EB0E96-AD8D-469C-ABF5-4D96823DEB2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccesLibrary", "EFDataAccesLibrary\EFDataAccesLibrary.csproj", "{13434241-841E-4EF8-BD78-77BA90AE898B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31524701-690A-4CA9-8DC8-7D81566CC40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31524701-690A-4CA9-8DC8-7D81566CC40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31524701-690A-4CA9-8DC8-7D81566CC40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31524701-690A-4CA9-8DC8-7D81566CC40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EB0E96-AD8D-469C-ABF5-4D96823DEB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EB0E96-AD8D-469C-ABF5-4D96823DEB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EB0E96-AD8D-469C-ABF5-4D96823DEB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EB0E96-AD8D-469C-ABF5-4D96823DEB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13434241-841E-4EF8-BD78-77BA90AE898B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13434241-841E-4EF8-BD78-77BA90AE898B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13434241-841E-4EF8-BD78-77BA90AE898B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13434241-841E-4EF8-BD78-77BA90AE898B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
